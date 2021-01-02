@@ -1,6 +1,12 @@
 # To-Do List App
 
-This project was created with [Create React App](https://github.com/facebook/create-react-app).
+This Website is made with the help of React. This website provides the facility to add, edit and remove tasks.
+
+## Features
+* Dynamically adds , edit and remove tasks without reloading.
+* Provides interactive 3 second alert whenever task are added, removed, edited or whole list is cleared.
+* The tasks are not lost on refresh and are lost only when one clears the list.
+* Unique tasks can be edited without affecting other tasks.
 
 ## How To Run
 Fork the repository and install the contents in a folder.
