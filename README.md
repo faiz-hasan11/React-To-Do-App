@@ -26,5 +26,11 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-## Learn More
+## Screenshots
 
+<p align="center"> HOME PAGE
+<image src="" />
+</p><br>
+<p align="center"> LIST PAGE
+<image src="" />
+</p><br>
