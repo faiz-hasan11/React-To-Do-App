@@ -29,8 +29,8 @@ You will also see any lint errors in the console.
 ## Screenshots
 
 <p align="center"> HOME PAGE
-<image src="" />
+<image src="https://github.com/faiz-hasan11/React-To-Do-App/blob/main/homepage.png" />
 </p><br>
 <p align="center"> LIST PAGE
-<image src="" />
+<image src="https://github.com/faiz-hasan11/React-To-Do-App/blob/main/item.png" />
 </p><br>
